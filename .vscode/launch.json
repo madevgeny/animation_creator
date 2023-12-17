@@ -1,0 +1,17 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "gen_anim.py",
+			"type": "python",
+			"request": "launch",
+			"program": "gen_anim.py",
+			"args": ["C:\\Users\\evgen\\sync\\blender\\balls\\balls7.blend.json"],
+			"console": "integratedTerminal",
+			"justMyCode": true
+		},
+	]
+}
